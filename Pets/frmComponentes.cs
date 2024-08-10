@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Pets
 {
-    public partial class frmLogin : Form
+    public partial class frmComponentes : Form
     {
-        public frmLogin()
+        public frmComponentes()
         {
             InitializeComponent();
-        }
-
-        private void txtPass_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnEntrar_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
